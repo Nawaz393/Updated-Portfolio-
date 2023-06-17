@@ -80,7 +80,7 @@ export const Navbar = (): ReactElement => {
 
 
 
-        {!darkmode? <BsSun  className={`text-2xl text-black`} />
+        {darkmode? <BsSun  className={`text-2xl text-black`} />
           :<  BsMoon className={`text-2xl text-white`} />}
         </li>
       </ul>

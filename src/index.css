@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components {
+    .tcol{
+
+        @apply  text-orange-500;
+    }
+  
+  
+    .bcol{
+  
+  
+      @apply bg-orange-500;
+    }
+  }
+
+  .rounded-glass-effect {
+    border-radius: 50%;
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 0 0 10px 10px rgba(255, 255, 255, 0.5);
+  }
+  
+  .duration{
+
+    transition-duration: 1.5s;
+  }
+
+  
+
+
+  .Grid{
+
+
+    @apply grid my-10 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3  mx-16 md:gap-8 gap-y-8 place-items-center
+  }
+.radius{
+
+
+  border-top-right-radius: 12rem;
+}

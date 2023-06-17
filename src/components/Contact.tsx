@@ -1,8 +1,7 @@
-import React from 'react'
+
 import {motion} from 'framer-motion'
 
 
-import  monog from "../assets/mongodb.png"
 import { item } from './skillAnime'
 
 

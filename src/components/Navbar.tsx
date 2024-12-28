@@ -43,7 +43,6 @@ export const Navbar = (): ReactElement => {
           <BsList 
           size="2em"
           title="menu"
-          alt="menu"
           role="button"
           />
         </button>

@@ -9,6 +9,7 @@ import sql from "../assets/sql-server.png"
 
 
 
+
 interface Skill{
 
   img:string,

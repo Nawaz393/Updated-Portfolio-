@@ -1,7 +1,7 @@
-
-import whatsapp from '../assets/whatsapp.png';
+import whatsapp from '../assets/whatsapp.png'; 
 import gmail from '../assets/gmail.png';
 import linkden from '../assets/linkedin.png';
+
 
 
 export const contacts = [

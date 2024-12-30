@@ -6,7 +6,7 @@ import Spineweb from "../assets/spineweb.png"
 import madrasa from "../assets/madrasa.png"
 import timetable from "../assets/timetable.png"
 import blog from "../assets/blog.png"
-import HomeAutomation from "../assets/Homeautomation.png"
+import HomeAutomation from "../assets/homeautomation.png"
 
 
 export const projects = [
